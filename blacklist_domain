@@ -4,7 +4,7 @@ hyperbeam.com
 watch.hyperbeam.com
 polybox.finance
 
-# CAAS-1757
+# CAAS-1757: disallow creating devcloud machines on intel, since we have seen that this is done in a loop:
 yopmail.com
 intel.com
 devcloud.intel.com
