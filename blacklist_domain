@@ -9,6 +9,9 @@ yopmail.com
 intel.com
 devcloud.intel.com
 jupyter.oneapi.devcloud.intel.com
+# 2024-06-05 found xtkbsymhmzcldkuy-voc-uni-hub running a malicious site that was downloading scripts from www.hostingcloud.racing:
+404-f.blogspot.com
+www.hostingcloud.racing
 
 # A youtube user having a while loop on youtube is causing a high CPU:
 youtube.com
